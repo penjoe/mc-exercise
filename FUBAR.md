@@ -12,4 +12,6 @@ What is the least spoken language in the world? Sign language
 
 Hello in russian is Privet.
 
+Hopefully this goes smoother than the last one
+
 `How are you` in russian is `Kak dela`

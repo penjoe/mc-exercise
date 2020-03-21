@@ -6,7 +6,7 @@ Adding a crazy feature for fun and laughs.
 
 Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
-Adding a crazy feature for fun and laughs.
+Adding a wonderful sentence which brought joy to all his classmates.
 
 What is the least spoken language in the world? Sign language
 
@@ -25,3 +25,5 @@ these are some more awesome features
 a dog named strawbearie is a Shitzu
 
 a dog named blue is a chawienie
+
+

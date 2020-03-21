@@ -14,4 +14,8 @@ Hello in russian is Privet.
 
 Hopefully this goes smoother than the last one
 
+Hopefully this goes smoother than the last one
+
+these are some more awesome features
+
 `How are you` in russian is `Kak dela`

@@ -19,3 +19,7 @@ Hopefully this goes smoother than the last one
 these are some more awesome features
 
 `How are you` in russian is `Kak dela`
+
+a dog named strawbearie is a Shitzu
+
+a dog named blue is a chawienie

@@ -21,3 +21,7 @@ these are some more awesome features
 `How are you` in russian is `Kak dela`
  
  This is a fun assignment
+
+a dog named strawbearie is a Shitzu
+
+a dog named blue is a chawienie

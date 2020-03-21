@@ -6,3 +6,5 @@ Did you know the first French fries weren't actually cooked in France? They were
 
 
 Adding a crazy feature for fun and laughs.
+
+What is the least spoken language in the world? Sign language

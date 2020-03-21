@@ -16,3 +16,5 @@ What is the least spoken language in the world? Sign language
 EXERCISE 2 
 
 Hopefully this goes smoother than the last one
+
+these are some more awesome features

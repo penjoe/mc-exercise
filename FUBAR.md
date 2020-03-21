@@ -19,3 +19,5 @@ Hopefully this goes smoother than the last one
 these are some more awesome features
 
 `How are you` in russian is `Kak dela`
+ 
+ This is a fun assignment

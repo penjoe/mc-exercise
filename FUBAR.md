@@ -33,7 +33,7 @@ a dog named strawbearie is a Shitzu
 
 a dog named blue is a chawienie
 
-My puppy's name is Frankie. 
+My puppy's name is Frankie. He is a schnauzer.
 
 
 
